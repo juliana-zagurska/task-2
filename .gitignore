@@ -1,4 +1,8 @@
 /.idea/
 /out/
 /.DS_Store/
+<<<<<<< Updated upstream
 /src/.DS_Store/
+=======
+/src/.DS_Store/
+>>>>>>> Stashed changes
